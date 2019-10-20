@@ -1,0 +1,15 @@
+{
+  "name": "benion-transparent-login",
+  "version": "1.0.0",
+  "description": "Transparent Login Background Page",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Benion",
+  "license": "ISC",
+  "homepage": "https://benion28.github.io/transparent",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
